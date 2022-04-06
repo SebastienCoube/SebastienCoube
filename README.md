@@ -1,6 +1,8 @@
 # Sébastien Coube-Sisqueille, PhD
 
-![alt text](https://github.com/SebastienCoube/SebastienCoube/blob/main/photo_2022-01-25_16-42-23.jpg =250x)
+<p align="center">
+  <img src="photo_2022-01-25_16-42-23.jpg " width="350" alt="accessibility text">
+</p>
 
 I am a young doctor in statistics. Really into Bayesian modeling and computational statistics, but also a curious person with a strong interest in health, ecology and social sciences.
 I strive to [fly less](https://sites.tufts.edu/flyingless/). 
