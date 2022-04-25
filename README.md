@@ -8,7 +8,7 @@ I am a young doctor in statistics. Really into Bayesian modeling and computation
 
 I strive to [fly less](https://sites.tufts.edu/flyingless/). 
 
-Sorry about the lousy markdown personal page but I have not enough time nor desire to make a proper homepage with a picture of me hiking like "Hey look at me I am a scientist but an outdoorsman too !".
+Sorry about the lousy markdown personal page but I have not enough time nor desire to make a proper homepage with a picture of me hiking climbing or diving like "Hey look at me I am a scientist but an outdoorsman too !".
 
 
 <!---
